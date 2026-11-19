@@ -1,0 +1,23 @@
+:root{
+
+    font-size: 100%;
+  
+
+    background: rad-gradient(to right, #008b8b, #0000ff);
+    
+
+}
+
+.sideLinks {
+ 
+
+ list-style-type:none;
+ 
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
