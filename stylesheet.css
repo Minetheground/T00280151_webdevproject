@@ -2,15 +2,15 @@
 
     font-size: 100%;
   
-
-    background: rad-gradient(to right, #008b8b, #0000ff);
+    text-align: center;
+    background: linear-gradient(to left, rgb(31, 66, 161), rgb(0, 71, 88));
     
 
 }
 
 .sideLinks {
  
-
+text-align: left;
  list-style-type:none;
  
 
@@ -19,5 +19,12 @@
 a {
 
     text-decoration: none;
+
+}
+.title {
+
+
+    
+
 
 }
