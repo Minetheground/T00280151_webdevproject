@@ -44,7 +44,7 @@ a:hover {
 .title {
 
     color: rgb(255, 255, 255);
-    font-family: 'NewBrunel';
+    font-family: 'Transport Heavy';
 
 
 }
@@ -117,18 +117,22 @@ footer{
 .photography-preview {
     background-color:rgb(85, 85, 20);
     position: absolute;
-    left: 70%;
+    left: 73%;
     border-right: solid 7px rgb(68, 68, 62); 
     border-top: solid 7px rgb(158, 153, 136); 
-    
+    font-family: NewBrunel;
+
 }
 
 .center-page{
 
-    border: solid red 5px;
+    color: rgb(206, 247, 206);
     position:absolute;
-    right: 30%;
-    bottom: 60%;
+    right: 27%;
+    top: 12%;
+    font-family: 'Transport Heavy';
+    text-align:center;
+    font-size: 0.9rem;
 }
 
 
