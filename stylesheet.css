@@ -120,19 +120,20 @@ footer{
     left: 73%;
     border-right: solid 7px rgb(68, 68, 62); 
     border-top: solid 7px rgb(158, 153, 136); 
-    font-family: NewBrunel;
-
+    font-family: 'NewBrunel';
+    bottom: 13%
 }
 
 .center-page{
 
-    color: rgb(206, 247, 206);
+    color: rgb(255, 255, 255);
     position:absolute;
-    right: 27%;
-    top: 12%;
+    right: 37%;
+    top: 9%;
     font-family: 'Transport Heavy';
     text-align:center;
-    font-size: 0.9rem;
+    font-size: 1.60rem;
+    height: 20rem;
 }
 
 
