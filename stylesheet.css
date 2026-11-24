@@ -4,7 +4,7 @@
   
     text-align: center;
     background: linear-gradient(to left, rgb(24, 66, 77), rgb(49, 83, 83), rgb(41, 86, 97));
-    
+  border:solid red 5px;
 
 }
 
@@ -22,8 +22,8 @@
  display: block;
  font-size: 2.1rem;
  border-radius: 14.20%;
- position: fixed;
-
+ 
+ float:left;
  font-family: arial rounded MT;
  
  
@@ -65,7 +65,7 @@ footer{
 }
 
 .test {
-    height: -10%;
+   
     color: white;
     
     font-family: monospace;
@@ -89,7 +89,7 @@ footer{
     width: 30rem;
     height: 1%;
    
-    left: 30%;
+  
     
     padding-bottom: 4%;
    
@@ -116,24 +116,23 @@ footer{
 
 .photography-preview {
     background-color:rgb(85, 85, 20);
-    position: absolute;
-    left: 73%;
     border-right: solid 7px rgb(68, 68, 62); 
     border-top: solid 7px rgb(158, 153, 136); 
     font-family: 'NewBrunel';
-    bottom: 13%
+    float: right;
 }
 
 .center-page{
 
     color: rgb(255, 255, 255);
-    position:absolute;
-    right: 37%;
-    top: 9%;
+   
+    float: left;
     font-family: 'Transport Heavy';
     text-align:center;
     font-size: 1.60rem;
-    height: 20rem;
+    align-items: center;
+    background-color: rgba(106, 5, 238, 0.377);
+    border: 5px red solid;
 }
 
 
